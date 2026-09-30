@@ -56,6 +56,6 @@ Include keyboard remapping, visible controller focus, and prompts that match the
 
 Build one short garden-restoration level with gathering, recruitment, distinct helper tasks, a bridge obstacle, and a clear completion condition. Verify keyboard/mouse, controller, and touch play before expanding the campaign.
 
-Next work: select and test a 3D engine across web and mobile; implement the core loop with placeholders; test input and readability; produce optimized original assets; validate representative devices; then prepare hosting and store releases. Unity is a candidate, not a committed choice. iOS release tooling requires macOS/Xcode access and mobile store distribution requires developer accounts.
+The first playable MVP now uses Three.js and Vite, with Capacitor configuration for iOS and Android packaging. The restoration loop, procedural original characters, and input controls are implemented; see [MVP scope](mvp.md). Next work is physical-device and controller testing, child-friendly usability testing, art refinement, and preparation for hosting and store releases. iOS release tooling requires macOS/Xcode access and mobile store distribution requires developer accounts.
 
 Accounts, multiplayer, ads, and purchases are outside the proposed initial milestone. Privacy, age rating, accessibility, and store requirements must be assessed before release.
